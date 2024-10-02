@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0546daa-1228-46c4-95ff-73690f613637" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/10-12/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-12/rab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/Dmit.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/Swed.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/glitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/igaravich.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-14/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7/Griddy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-6-7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/Suzumi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/haruka.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/sm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/Everything Together.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/Ninebot-KickScooter-Max-G30P-User-Manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/android-chrome-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-114x114-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-120x120-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-144x144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-152x152-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-180x180-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-57x57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-60x60-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-72x72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-76x76-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/fonts/proxima-nova-semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/1234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/12345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/123456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/1234567.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/04.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/05.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/06.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/07.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/08.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/09.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/accessories/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/04.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/05.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/06.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/07.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/08.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/09.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/10.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/11.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/12.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/13.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/14.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/category/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/draw/manual-mockup.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/draw/manual-mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/draw/packing-list.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/draw/packing-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/other/background.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/other/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/other/profile.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/other/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/04.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/05.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/06.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/07.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/08.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/overview-bg.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/overview/overview-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/1.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/10.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/11.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/12.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/13.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/14.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/15.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/16.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/2.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/3.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/4.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/5.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/6.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/7.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/8.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/9.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/payments/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/product/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/product/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/product/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/product/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/reviews/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/04.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/05.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/06.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/07.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/08.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/09.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/10.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/specifications/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/warranty/01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/img/warranty/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/js/annex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRY/js/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/Tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/Photka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/Puruana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/barabara.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/dethmomoi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/stock.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/images/stock.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/media/BestGirl.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/media/British.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/media/Noisy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/media/Noushou.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/media/UMINAOSHI.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmltest.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2msWlgPxZWsfMvYLdq7Zam0JT4M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0546daa-1228-46c4-95ff-73690f613637" name="Changes" comment="" />
+      <created>1727865917520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727865917520</updated>
+    </task>
+    <servers />
+  </component>
+</project>
